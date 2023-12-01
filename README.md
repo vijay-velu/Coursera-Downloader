@@ -1,6 +1,6 @@
 # Coursera-Downloader
 
-a gui on top of the coursera-dl <a href="https://github.com/raffaem/cs-dlp">fork by raffaem</a> for easy downloading of coursera courses
+a gui on top of the coursera-dl script for easy downloading of coursera courses
 
 Site for downloading the windows app: http://coursera-downloader.rf.gd/
 
